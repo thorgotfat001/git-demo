@@ -4,13 +4,7 @@
  *  Created on: 2019年5月27日
  *      Author: dutch
  */
-/*
- * 556.c
- *
- *  Created on: 2019年5月24日
- *      Author: dutch
- *
- */
+ 
 
 #include<string.h>#include <stdio.h>
 #include <stdlib.h>
